@@ -16,7 +16,7 @@ It is a rule that ensures that everyone can understand the requests already adde
 <h3>How to add a suggestion?</h3>
 
 <ol>
-<li>To add a new suggestion, please, use this <strong><a href="https://github.com/PixelDima/suggestions/issues " rel="nofollow">link</a></strong>.</li>
+<li>To add a new suggestion, please, use this <strong><a href="https://github.com/PixelDima/devodoo-suggestions/issues " rel="nofollow">link</a></strong>.</li>
   <li>Click <strong>New issue</strong> button on the right and proceed to creating a new issue:
     <ul>
      <li>fill in the gist of the request;</li>
